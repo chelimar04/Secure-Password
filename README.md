@@ -24,5 +24,5 @@ Este programa no puede garantizar al 100% la seguridad de tus contraseñas. Aunq
 Desarrollado por Chelimar Morales y Yadriel Nieves.
 
 # Licencia
-Este proyecto está bajo la Licencia MIT. 
+Este proyecto está bajo la Licencia MIT. Vea el archivo LICENSE.txt para más detalles.
 
