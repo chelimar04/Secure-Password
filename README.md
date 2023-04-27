@@ -15,7 +15,7 @@ SecurePassword es un administrador de contraseñas en C++ que permite a los usua
 - Verificar si la contraseña tiene una palabra del diccionario
 - Verificar si la contraseña es igual a la de una cuenta existente
 - Bloquear cuenta luego de tres intentos fallidos 
-- Recuperación de contrasena olvidada
+- Recuperación de contraseña olvidada
 
 # Disclaimer
 Este programa no puede garantizar al 100% la seguridad de tus contraseñas. Aunque utiliza técnicas para verificar su fortaleza, no tiene acceso a tu información personal, por lo tanto, no puede asegurar que tus contraseñas no sean vulnerables. Utiliza este programa bajo tu propia responsabilidad y asegúrate de tomar medidas adicionales para proteger tus contraseñas e información personal.
